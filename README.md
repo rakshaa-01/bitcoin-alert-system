@@ -43,28 +43,46 @@ This project lets one track the ever fluctuating bitcoin prices in the currency 
 
 The below code will automatically fetch one's SID, Authentication TOKEN, TO_NUM and FROM_NUM that one have initialized in conf.py file. 
 
-[![credentials.jpg](https://i.postimg.cc/Fz61F8PV/credentials.jpg)](https://postimg.cc/gLvGNSbx)
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668571-f809cec2-30d1-4072-8610-90c3afa73325.JPG">
+</p>
 - The inputs from the user:<br />
-[![Input.jpg](https://i.postimg.cc/Kc1MwDpD/Input.jpg)](https://postimg.cc/z31vRKry)
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668548-fdc2e57e-b6e1-4819-8443-83e4873ee544.JPG">
+</p>
 - Below is the function definition to check the current market value of bitcoin and return it to the user.
-[![function.jpg](https://i.postimg.cc/cCG0DW5j/function.jpg)](https://postimg.cc/JDxfnf8c)
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668524-f0c1166f-e9ee-438a-9566-a12c68391201.JPG">
+</p>
 - The main code block incorporates the function price_check and checks the condition whether the current bitcoin market value is greater than the selling price entered by the user and gives the different user alerts.
-[![main.jpg](https://i.postimg.cc/y6hHVwG1/main.jpg)](https://postimg.cc/Jthgxdmv)
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668497-e6d29851-14a3-4060-9684-722503e89c04.JPG">
+</p>
 
 ## Output
 (I) **Output Window**
 
-- Here, the user is asked to enter the corresponding country currency in which he/she wants to invest.
-[![out1.jpg](https://i.postimg.cc/TYXHP1DF/out1.jpg)](https://postimg.cc/Z0VL7Tjx)
+- Here, the user is asked to enter the corresponding country currency in which he/she wants to invest.<br />
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668487-258bdb84-a63f-4478-ad03-e3d29b16c72b.JPG">
+</p>
 
 (II) **Buzzer**<br />
-[![Hardware-connection.jpg](https://i.postimg.cc/yYch5LLZ/Hardware-connection.jpg)](https://postimg.cc/JG7BH5Vr)
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668461-49e497ad-6de2-463b-a8f8-cabf5fd96e5b.JPG">
+</p>
 
 (III) **SMS**<br />
-[![SMS-alert.jpg](https://i.postimg.cc/mD72R1J8/SMS-alert.jpg)](https://postimg.cc/KkvyDjZM)
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668443-0a144be8-b899-4fe3-a136-6c63ce7ec571.jpg">
+</p>
 
 (IV) **Email**<br />
-[![Email-Alert.jpg](https://i.postimg.cc/Qthv9BV6/Email-Alert.jpg)](https://postimg.cc/qtD1Wvsn)
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668418-c0c92d36-ece4-4fb3-8b3e-08821083c99e.JPG">
+</p>
 
 (V) **Telegram Bot**<br />
-[![Telegram-Alert.jpg](https://i.postimg.cc/ydxXbBG1/Telegram-Alert.jpg)](https://postimg.cc/dkMy7Mvp)
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/97796804/182667532-db73c663-e242-4fcd-8e5a-745a4ef71f90.jpg">
+</p>
