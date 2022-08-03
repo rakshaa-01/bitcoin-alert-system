@@ -29,8 +29,8 @@ This project lets one track the ever fluctuating bitcoin prices in the currency 
 (a) **Circuit**
 
 - The postive pins of buzzer is connected to pin 1 of the module and LED is connected to pin 0 of the module and their negative pins are connected to GND.
-- The module is powered ON connected to the hotspot using Bolt App.<br />
-[![Circuit.jpg](https://i.postimg.cc/B6ddqCT1/Circuit.jpg)](https://postimg.cc/XGk2LdDV)
+- The module is powered ON connected to the hotspot using Bolt App.<br /><br />
+![Circuit](https://user-images.githubusercontent.com/97796804/182670741-2e91aa86-bc17-436f-94bf-0d60f9f16c2c.JPG)
 
 *The stable blue and green LED's symbolises that the module has proper cloud access, is connected to the hotspot and has power supply.*
 
@@ -43,29 +43,19 @@ This project lets one track the ever fluctuating bitcoin prices in the currency 
 
 The below code will automatically fetch one's SID, Authentication TOKEN, TO_NUM and FROM_NUM that one have initialized in conf.py file. 
 
-<p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668571-f809cec2-30d1-4072-8610-90c3afa73325.JPG">
-</p>
+![credentials](https://user-images.githubusercontent.com/97796804/182668571-f809cec2-30d1-4072-8610-90c3afa73325.JPG)
 - The inputs from the user:<br />
-<p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668548-fdc2e57e-b6e1-4819-8443-83e4873ee544.JPG">
-</p>
+![input](https://user-images.githubusercontent.com/97796804/182668548-fdc2e57e-b6e1-4819-8443-83e4873ee544.JPG)
 - Below is the function definition to check the current market value of bitcoin and return it to the user.
-<p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668524-f0c1166f-e9ee-438a-9566-a12c68391201.JPG">
-</p>
+![function](https://user-images.githubusercontent.com/97796804/182668524-f0c1166f-e9ee-438a-9566-a12c68391201.JPG)
 - The main code block incorporates the function price_check and checks the condition whether the current bitcoin market value is greater than the selling price entered by the user and gives the different user alerts.
-<p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668497-e6d29851-14a3-4060-9684-722503e89c04.JPG">
-</p>
+![main](https://user-images.githubusercontent.com/97796804/182668497-e6d29851-14a3-4060-9684-722503e89c04.JPG)
 
 ## Output
 (I) **Output Window**
 
 - Here, the user is asked to enter the corresponding country currency in which he/she wants to invest.<br />
-<p align="center">
-  <img width="200" src="https://user-images.githubusercontent.com/97796804/182668487-258bdb84-a63f-4478-ad03-e3d29b16c72b.JPG">
-</p>
+![out](https://user-images.githubusercontent.com/97796804/182668487-258bdb84-a63f-4478-ad03-e3d29b16c72b.JPG)
 
 (II) **Buzzer**<br />
 <p align="center">
