@@ -30,7 +30,9 @@ This project lets one track the ever fluctuating bitcoin prices in the currency 
 
 - The postive pins of buzzer is connected to pin 1 of the module and LED is connected to pin 0 of the module and their negative pins are connected to GND.
 - The module is powered ON connected to the hotspot using Bolt App.
+<center>
 [![Circuit.jpg](https://i.postimg.cc/B6ddqCT1/Circuit.jpg)](https://postimg.cc/XGk2LdDV)
+</center>
 
 *The stable blue and green LED's symbolises that the module has proper cloud access, is connected to the hotspot and has power supply.*
 
@@ -67,4 +69,6 @@ The below code will automatically fetch one's SID, Authentication TOKEN, TO_NUM 
 [![Email-Alert.jpg](https://i.postimg.cc/Qthv9BV6/Email-Alert.jpg)](https://postimg.cc/qtD1Wvsn)
 
 (V) **Telegram Bot**
+<center>
 [![Telegram-Alert.jpg](https://i.postimg.cc/ydxXbBG1/Telegram-Alert.jpg)](https://postimg.cc/dkMy7Mvp)
+</center>
